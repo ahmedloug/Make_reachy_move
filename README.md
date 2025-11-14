@@ -1,4 +1,4 @@
-# Reachy Mini — Contrôle par pose et voix
+# Reachy Mini Contrôle par pose et voix
 
 Projet: contrôler un Reachy Mini (simulation ou réel) avec
 - la pose détectée par la webcam (hanches pour translation de la tête, poignets pour antennes)
